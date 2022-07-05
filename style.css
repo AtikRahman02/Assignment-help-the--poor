@@ -1,4 +1,6 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
 .first-part {
     background-image: url('images/donation7.jpg');
     background-repeat: no-repeat;
@@ -8,6 +10,7 @@
     color: yellow;
     font-size: 2rem;
     text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
    
     
   }
@@ -26,6 +29,7 @@
     box-shadow : 20px 20px 10px 10PX none;
     border-radius: 10px;
     background-color: thistle;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 .donate-today{
     text-align: center;
@@ -49,6 +53,7 @@
     margin: 30px;
     border-radius: 5px;
     text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 .donate-amount-default{
     background-color: rgb(223, 121, 121);
@@ -56,6 +61,7 @@
 }
 .mvg{
     display: flex;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 .mvg img{
     width: 130px;
