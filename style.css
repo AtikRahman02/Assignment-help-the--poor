@@ -1,0 +1,147 @@
+
+.first-part {
+    background-image: url('images/donation7.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% ;
+    height: 400px;
+    color: yellow;
+    font-size: 2rem;
+    text-align: center;
+   
+    
+  }
+ .first-part button{
+     background-color: rgb(214, 74, 74);
+     color: white;
+     width: 100px;
+     height: 33px;
+     border-radius: 10px;
+ }
+ .quater-width1{
+    width: 30%;
+    padding-left: 10px;
+    margin-left: 5%;
+    margin-right: 5% ;
+    box-shadow : 20px 20px 10px 10PX none;
+    border-radius: 10px;
+    background-color: thistle;
+}
+.donate-today{
+    text-align: center;
+}
+.donate-today button{
+    text-align: center;
+    height: 30px;
+    width: 70px;
+    color: aliceblue;
+    border-radius: 2px;
+    margin-top: 7px;
+    background-color: rgb(138, 1, 1)
+}
+.donate-amount-box{
+    display: flex;
+    
+}
+.donate-amount{
+    padding:   40px 70px ;
+    background-color: rgb(168, 192, 192);
+    margin: 30px;
+    border-radius: 5px;
+    text-align: center;
+}
+.donate-amount-default{
+    background-color: rgb(223, 121, 121);
+    color: rgb(138, 1, 1)
+}
+.mvg{
+    display: flex;
+}
+.mvg img{
+    width: 130px;
+    height: 130px;
+}
+.quater-width1{
+    width: 30%;
+    padding-left: 10px;
+    margin-left: 5%;
+    margin-right: 5% ;
+    box-shadow : 20px 20px 10px 10PX none;
+    border-radius: 10px;
+    background-color: thistle;
+}
+.quater-width2{
+    width: 30%;
+    padding-left: 10px;
+    margin-left: 5%;
+    margin-right: 5% ;
+    box-shadow : 20px 20px 10px 10PX none;
+    border-radius: 10px;
+    background-color: rgb(173, 211, 241);
+}
+.quater-width3{
+    width: 30%;
+    padding-left: 10px;
+    margin-left: 5%;
+    margin-right: 5% ;
+    box-shadow : 20px 20px 10px 10PX none;
+    border-radius: 10px;
+    background-color: rgb(180, 238, 189);
+}
+.our-mission {
+    text-align: center;
+}
+.oure-mission-quote{
+    text-align: center;
+}
+.bonus-first-part {
+    
+    background-size: 100% ;
+    height: 400px;
+    text-align: center;
+    width: 60%;
+    padding: 20px;
+    
+    padding-top: 100px;
+}
+   
+    
+  
+ .bonus-first-part button{
+     background-color: rgb(214, 74, 74);
+     color: white;
+     width: 100px;
+     height: 33px;
+     border-radius: 10px;
+ }
+ .bonus-part{
+     display: flex;
+     align-items: center;
+ }
+ .bonus-part img{
+    height: 300px;
+   
+    width: 400px;
+}
+.form{
+    text-align: center;
+    background-color: rgb(125, 126, 126);
+}
+.form button{
+    background-color: rgb(214, 74, 74);
+    color: white;
+    width: 100px;
+    height: 33px;
+    border-radius: 10px;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(0, 26, 6);
+    color: white;
+   
+}
+.footer h1{
+    color: rgb(214, 74, 74);;
+}
